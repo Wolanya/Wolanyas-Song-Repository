@@ -1,4 +1,4 @@
 {
   "Vor Gericht Jinja",
-"Du Bist Schön Jinja"
+"Du Bist Schon Jinja"
 }
