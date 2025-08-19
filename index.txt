@@ -24,4 +24,5 @@
   "Stronger Than You Jinja",
   "Brain Power Jinja",
   "Evil Too Jinja",
+  "LILITH INST MASTER"
 }
