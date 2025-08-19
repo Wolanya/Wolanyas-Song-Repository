@@ -24,5 +24,15 @@
   "Stronger Than You Jinja",
   "Brain Power Jinja",
   "Evil Too Jinja",
-  "LILITH INST MASTER"
+  "LILITH INST MASTER",
+  "Here comes a thought Jinja",
+  "Myth And Roid Jinja",
+  "Shinitai Chan Jinja",
+  "Akai Haato Jinja",
+  "CHANGE Jinja",
+  "Eternal Thoughts Jinja",
+  "Higurashi Jinja",
+  "Pop on Rocks Jinja",
+  "Sayoko Jinja",
+  "Not Afraid Jinja" 
 }
