@@ -7,5 +7,7 @@
   "Like Dislike Jinja",
   "Patchwork Staccato Jinja",
   "Wissen will ichs nicht Jinja",
-  "Your Reality Jinja"
+  "Your Reality Jinja",
+  "Machine Gun Jinja",
+  "Digital Girl Jinja"
 }
