@@ -9,6 +9,5 @@
   "Patchwork Staccato Jinja",
   "Rebecca Sugar Being Human Jinja",
   "Wissen will ichs nicht Jinja",
-  "Your Reality Jinja",
-  "deadman Omae wa mou Jinja"
+  "Your Reality Jinja"
 }
