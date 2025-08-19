@@ -18,5 +18,5 @@
   "Demon Slayer Gurenge Jinja",
   "Alien Alien Jinja"
   "Brain Power Jinja",
-  "Glad Youre Evil Too Jinja"
+  "Evil Too Jinja"
 }
