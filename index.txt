@@ -14,5 +14,7 @@
   "Omae Wa Mou Jinja",
   "Being Human Jinja",
   "Das Madchen Jinja",
-  "King Jinja"
+  "King Jinja",
+  "Demon Slayer Gurenge Jinja",
+  "Alien Alien Jinja"
 }
