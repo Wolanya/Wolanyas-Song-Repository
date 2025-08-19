@@ -10,5 +10,8 @@
   "Your Reality Jinja",
   "Machine Gun Jinja",
   "Digital Girl Jinja",
-"Endless Jinja"
+  "Endless Jinja",
+  "Omae Wa Mou Jinja",
+  "Being Human Jinja",
+  "Das Madchen Jinja"
 }
