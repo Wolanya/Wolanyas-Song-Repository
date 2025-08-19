@@ -19,6 +19,6 @@
   "Alien Alien Jinja",
   "Yozurina Jinja",
   "World Execute Me Jinja",
-  "Unlasting Jinja"
-
+  "Unlasting Jinja",
+  "Michishirube Jinja"
 }
