@@ -16,5 +16,7 @@
   "Das Madchen Jinja",
   "King Jinja",
   "Demon Slayer Gurenge Jinja",
-  "Alien Alien Jinja"
+  "Alien Alien Jinja",
+  "Yozurina Jinja",
+  "World Execute Me Jinja"
 }
