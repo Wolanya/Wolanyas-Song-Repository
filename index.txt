@@ -14,5 +14,5 @@
   "Omae Wa Mou Jinja",
   "Being Human Jinja",
   "Das Madchen Jinja",
-  "Jinja"
+  "King Jinja"
 }
