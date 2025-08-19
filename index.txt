@@ -13,5 +13,6 @@
   "Endless Jinja",
   "Omae Wa Mou Jinja",
   "Being Human Jinja",
-  "Das Madchen Jinja"
+  "Das Madchen Jinja",
+  "Jinja"
 }
