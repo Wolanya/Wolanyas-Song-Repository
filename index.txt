@@ -9,5 +9,6 @@
   "Wissen will ichs nicht Jinja",
   "Your Reality Jinja",
   "Machine Gun Jinja",
-  "Digital Girl Jinja"
+  "Digital Girl Jinja",
+"Endless Jinja"
 }
