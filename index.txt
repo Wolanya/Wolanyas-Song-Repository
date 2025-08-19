@@ -18,5 +18,7 @@
   "Demon Slayer Gurenge Jinja",
   "Alien Alien Jinja",
   "Yozurina Jinja",
-  "World Execute Me Jinja"
+  "World Execute Me Jinja",
+  "Unlasting Jinja"
+
 }
