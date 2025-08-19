@@ -16,7 +16,7 @@
   "Das Madchen Jinja",
   "King Jinja",
   "Demon Slayer Gurenge Jinja",
-  "Alien Alien Jinja"
+  "Alien Alien Jinja",
   "Unlasting Jinja",
   "Michishirube Jinja"
 }
