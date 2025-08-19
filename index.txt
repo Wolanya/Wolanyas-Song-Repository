@@ -20,5 +20,6 @@
   "Yozurina Jinja",
   "World Execute Me Jinja",
   "Unlasting Jinja",
-  "Michishirube Jinja"
+  "Michishirube Jinja",
+  "Stronger Than You Jinja"
 }
