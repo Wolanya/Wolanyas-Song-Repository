@@ -1,4 +1,15 @@
 {
   "Vor Gericht Jinja",
-"Du Bist Schon Jinja"
+  "Du Bist Schon Jinja",
+  "Alligatoah Ein Problem mit Alkoho Jinja",
+  "Angela Breathe Again Jinja",
+  "Angela Vo Alisa Endless Jinja",
+  "Excuse My Rudeness But Could You Please RIP Jinja",
+  "Kikuo Das Madchen das Ungluck verkauft Jinja",
+"Like Dislike Jinja",
+"Patchwork Staccato Jinja",
+"Rebecca Sugar Being Human Jinja",
+"Wissen will ichs nicht Jinja",
+"Your Reality Jinja",
+"deadman Omae wa mou Jinja"
 }
