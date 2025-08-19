@@ -21,5 +21,7 @@
   "World Execute Me Jinja",
   "Unlasting Jinja",
   "Michishirube Jinja",
-  "Stronger Than You Jinja"
+  "Stronger Than You Jinja",
+  "Brain Power Jinja",
+  "Evil Too Jinja",
 }
