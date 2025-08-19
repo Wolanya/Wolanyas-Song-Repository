@@ -14,4 +14,14 @@
   "Omae Wa Mou Jinja",
   "Being Human Jinja",
   "Das Madchen Jinja"
+  "King Jinja",
+  "Demon Slayer Gurenge Jinja",
+  "Unlasting Jinja",
+  "Michishirube Jinja",
+  "World Execute Me Jinja",
+  "Alien Alien Jinja",
+  "Brain Power Jinja",
+  "Yozurina Jinja",
+  "Glad Youre Evil Too Jinja",
+  "Stronger Than You Jinja"
 }
